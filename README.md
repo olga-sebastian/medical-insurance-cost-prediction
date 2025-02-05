@@ -1,4 +1,4 @@
-# medical-insurance-cost-prediction
+c# medical-insurance-cost-prediction
 This project develops a machine learning model to predict medical insurance costs based on factors such as age, BMI, number of children, smoking status, and region. The model is trained using a Random Forest Regressor, with Linear Regression used as a baseline for performance comparison. The final model is deployed using Streamlit for interactive predictions.
 
 Project Overview

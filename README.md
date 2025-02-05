@@ -74,22 +74,3 @@ We used **two Kaggle datasets** and merged them to improve prediction precision:
 | **R² Score** | `0.9857` |
 
 ---
-
-##  Running the Project
-
-###  **Clone the Repository**
-```bash
-git clone https://github.com/olga-sebastian/medical-insurance-cost-prediction.git
-cd medical-insurance-cost-prediction
-```
-
-### **Install Dependencies**
-```bash
-pip install -r requirements.txt
-```
-
-### **Run the Streamlit App**
-```bash
-streamlit run app.py
-```
-
